@@ -1,0 +1,43 @@
+# WHAT IS FLASK
+
+Flask is Python’s micro-framework for web app development that consists of Werkzeug WSGI toolkit and Jinja2
+ template engine
+ 
+ #MERITS OF FLASK
+Simplicity: Flask has a simple and easy-to-understand syntax, making it a great choice for small to 
+  medium-sized web applications.
+
+Flexibility: Flask allows developers to choose the components they want to use, rather than being tied 
+ to a specific set of tools or libraries.
+
+Extensibility: Flask can be easily extended with third-party libraries to add functionality as needed.
+
+Lightweight: Flask is lightweight and doesn't impose a lot of overhead, making it a good choice for 
+ building fast and efficient web applications.
+
+#DEMERITS OF FLASK
+
+Limited Built-in Functionality: Flask has minimal built-in functionality compared to other web 
+ frameworks, so developers may need to rely on third-party extensions for certain features.
+
+Manual Configuration: Flask requires more manual configuration compared to some other frameworks, 
+ which can lead to increased development time for complex applications.
+
+Scalability: While Flask can be used to build scalable applications, it may require more effort 
+ compared to some other frameworks that come with built-in support for scalability.
+
+#PREREQUISTES OF FLASK
+
+Before learning Flask, you must have the basic knowledge of Python concepts.
+
+#NAME VARIABLES.
+
+string: Any text without a slash is acceptable (the default).
+
+int: only accepts integers. ex. = 12.
+
+float: Similar to int but for floating point values. ex. =12.56.
+
+path: similar to the default but also takes slashes.
+
+uuid: accepts UUID strings.
